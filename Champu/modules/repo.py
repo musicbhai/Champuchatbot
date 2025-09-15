@@ -8,7 +8,7 @@ from Champu import ChampuBot
 
 
 start_txt = """**
-✪ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗖𝗵𝗮𝗺𝗽𝘂 𝗥𝗲𝗽𝗼𝘀 ✪
+✪ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 Aura 𝗥𝗲𝗽𝗼𝘀 ✪
 
 ➲ ᴇᴀsʏ ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ✰  
 ➲ ɴᴏ ʙᴀɴ ɪssᴜᴇs ✰  
@@ -28,8 +28,8 @@ async def repo(_, m: Message):
           InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{ChampuBot.username}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ᴄʜᴧᴍᴘᴜ", url="https://t.me/TheChampu"),
-          InlineKeyboardButton("sʜɪᴠᴀɴsʜᴜ", url="https://t.me/TheShivanshu"),
+          InlineKeyboardButton("ᴄʜᴧᴍᴘᴜ", url="https://t.me/CrunchyrollAsia"),
+          InlineKeyboardButton("sʜɪᴠᴀɴsʜᴜ", url="https://t.me/AuraVisual"),
           ],
                [
                 InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/itsmeshivanshu"),

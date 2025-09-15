@@ -28,16 +28,16 @@ async def repo(_, m: Message):
           InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{ChampuBot.username}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ᴄʜᴧᴍᴘᴜ", url="https://t.me/CrunchyrollAsia"),
-          InlineKeyboardButton("sʜɪᴠᴀɴsʜᴜ", url="https://t.me/AuraVisual"),
+          InlineKeyboardButton("𝗧ε᧘‌ᴍ 𝐀𝘂𝗿𝗮", url="https://t.me/AuraXusd"),
+          InlineKeyboardButton("Satyam Yadav", url="https://t.me/AuraVisual"),
           ],
                [
                 InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/itsmeshivanshu"),
 
 ],
 [
-              InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"https://github.com/TheChampu/ChampuMusic"),
-              InlineKeyboardButton("ᴄʜᴀᴛʙᴏᴛ", url=f"https://github.com/TheChampu/ChatBot")
+              InlineKeyboardButton("Anime", url=f"https://t.me/CrunchyrollAsia"),
+              InlineKeyboardButton("Take Repo", url=f"https://t.me/UseSense")
               ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
